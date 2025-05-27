@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Essential Tee",
+    "subtitle": "Premium Cotton",
+    "price": 89.99,
+    "description": "The foundation of any honest wardrobe. Crafted from 100% premium cotton with a contemporary fit that speaks volumes through simplicity.",
+    "image": "images/essential-tee.jpg",
+    "category": "tees",
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": ["Black", "White", "Charcoal"],
+    "material": "100% Premium Cotton",
+    "weight": "6.1oz heavyweight",
+    "fit": "Regular fit",
+    "features": [
+      "Double-needle stitching",
+      "Reinforced seams",
+      "Pre-shrunk fabric",
+      "Tagless label"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Statement Tee",
+    "subtitle": "Limited Edition",
+    "price": 89.99,
+    "description": "Make your mark with our signature Statement Tee. Features the complete HONEST. branding with EST.2025 and our Latin motto for those who understand.",
+    "image": "images/statement-tee.jpg",
+    "category": "tees",
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": ["Black", "White"],
+    "material": "100% Premium Cotton",
+    "weight": "6.1oz heavyweight",
+    "fit": "Regular fit",
+    "features": [
+      "Limited production run",
+      "Screen-printed graphics",
+      "Water-based inks",
+      "Collectible piece"
+    ],
+    "limited": true
+  },
+  {
+    "id": 3,
+    "name": "Classic Tee",
+    "subtitle": "Signature Cut",
+    "price": 89.99,
+    "description": "Timeless design meets modern execution. The Classic Tee represents everything we stand for - quality, authenticity, and uncompromising standards.",
+    "image": "images/classic-tee.jpg",
+    "category": "tees",
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": ["Black", "White", "Charcoal", "Navy"],
+    "material": "100% Premium Cotton",
+    "weight": "6.1oz heavyweight",
+    "fit": "Regular fit",
+    "features": [
+      "Signature cut and sew",
+      "Reinforced collar",
+      "Side-seamed construction",
+      "Premium hang tags"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Archive Tee",
+    "subtitle": "Heavyweight",
+    "price": 89.99,
+    "description": "From the archives comes our heavyweight construction tee. Built to last with vertical HONEST. branding that commands attention and respect.",
+    "image": "images/archive-tee.jpg",
+    "category": "tees",
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": ["Black", "Vintage White", "Stone"],
+    "material": "100% Premium Cotton",
+    "weight": "7.0oz extra heavyweight",
+    "fit": "Boxy fit",
+    "features": [
+      "Extra heavyweight fabric",
+      "Vintage-inspired cut",
+      "Garment-washed finish",
+      "Archive collection piece"
+    ],
+    "archive": true
+  }
+]
