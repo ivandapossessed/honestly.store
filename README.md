@@ -4,4 +4,5 @@ Streetwear Website
 
     Coded on html and json.
     Open honestly.worldwide website
-    And get the freshest drip for the whole fam
+    And get the freshest drip 
+    For the whole family
