@@ -7,3 +7,4 @@ Streetwear Website
     And get the freshest drip 
     For the whole family
     Size chart is going XS - XXL
+    First drop on 16 June
