@@ -6,3 +6,4 @@ Streetwear Website
     Open honestly.worldwide website
     And get the freshest drip 
     For the whole family
+    Size chart is going XS - XXL
