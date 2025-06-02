@@ -9,4 +9,4 @@ Streetwear Website
     Size chart is going XS - XXL
     First drop on 16 June
 
-op
+open in your browser
