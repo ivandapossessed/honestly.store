@@ -12,4 +12,4 @@ Streetwear Website
 open in your browser and get the stuff created especially for your future closet.
 
 .pre-launch and idea in may
-.lqunch and 
+.launch and everything
