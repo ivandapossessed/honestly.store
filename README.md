@@ -16,7 +16,6 @@ launch and everything in june
 
 
 *SOLD
-
 OUT*
 
 #
