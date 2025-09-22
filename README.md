@@ -15,8 +15,7 @@ pre-launch and idea in may
 launch and everything in june
 
 
-*SOL
-D
+*SOLD
 
 OUT*
 
