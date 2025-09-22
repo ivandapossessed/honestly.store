@@ -13,3 +13,6 @@ open in your browser and get the stuff created especially for your future closet
 
 pre-launch and idea in may
 launch and everything in june
+
+
+*SOL
