@@ -15,6 +15,6 @@ pre-launch and idea in may
 launch and everything in june
 
 
-*SOLD OUT*
+*SOLD OUT*    69/69
 
 #
